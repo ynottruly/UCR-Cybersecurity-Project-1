@@ -8,6 +8,7 @@ The files in this repository were used to configure the network depicted below:
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the configuration file may be used to install only certain pieces of it, such as Filebeat.
 
+[Filebeat Playbook](https://github.com/ynottruly/UCR-Cybersecurity-Project-1/blob/main/Ansible/Filebeat_Playbook) - [Metricbeat Playbook](https://github.com/ynottruly/UCR-Cybersecurity-Project-1/blob/main/Ansible/Metricbeat_Playbook) - [Install VM with Docker](https://github.com/ynottruly/UCR-Cybersecurity-Project-1/blob/main/Ansible/Install_Docker_Playbook) - [Install ELK PLaybook](https://github.com/ynottruly/UCR-Cybersecurity-Project-1/blob/main/Ansible/Install_Elk_Playbook)
 
 **Description of the Topology**
 
